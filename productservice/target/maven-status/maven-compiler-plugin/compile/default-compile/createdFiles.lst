@@ -1,0 +1,5 @@
+com\bharath\springcloud\controllers\ProductRestController.class
+com\bharath\springcloud\dto\Coupon.class
+com\bharath\springcloud\ProductserviceApplication.class
+com\bharath\springcloud\repos\ProductRepo.class
+com\bharath\springcloud\model\Product.class
